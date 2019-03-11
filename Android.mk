@@ -12,6 +12,6 @@ LOCAL_OVERRIDES_PACKAGES := Jelly
 
 LOCAL_MODULE_CLASS := APPS
 
-LOCAL_SRC_FILES := duckduckgo-5.9.1-release-unsigned.apk
+LOCAL_SRC_FILES := duckduckgo-5.19.0-release-unsigned.apk
 
 include $(BUILD_PREBUILT)
