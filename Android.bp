@@ -1,0 +1,13 @@
+android_app_import {
+    name: "DuckDuckGo",
+    apk: "duckduckgo-5.295.1-play-release.apk",
+    presigned: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    system_ext_specific: true,
+    overrides: [
+        "Jelly",
+        "Browser2",
+    ],
+}
